@@ -1,10 +1,4 @@
 # Meher763-cosmetic-insights-navigating-cosmetics-trends-and-consumer-insights-with-tableau-main
-It sounds like you want a roadmap or discussion around “Cosmetic Insights: Navigating Cosmetics Trends and Consumer Insights with Tableau.” I can put together an outline + key ideas + how to use Tableau to track, analyse, visualise such insights. If you want, I can also prepare a template/dashboard design.
-
-Here’s a breakdown:
-
----
-
 ## What are Cosmetic & Beauty Trends / Consumer Insights
 
 These are patterns in behaviour, preferences, product attributes, market dynamics etc. that help brands understand what consumers want, where the market is heading, competitive behaviour, etc. Key drivers include:
@@ -84,9 +78,6 @@ Here’s a suggested layout for a Tableau dashboard for “Cosmetic Insights”:
 
 * Marketing team wants to decide what claims or packaging to highlight: if “recyclable packaging” or “SPF protection” or “vegan formula” are trending, adjust website / product pages accordingly.
 
----
-
-If you like, I can sketch out a detailed dashboard in Tableau (with example data) or even share some data sources you could plug into Tableau to explore cosmetic trends. Do you want me to build that?
 
 [1]: https://www.ausmetics.com/pap/2025-cosmetics-trends/?utm_source=chatgpt.com "Deepseek Insights: 2025 Cosmetics Trends"
 [2]: https://blogs.sw.siemens.com/consumer-products-retail/2025/07/22/beauty-and-cosmetic-industry-trends-2025/?utm_source=chatgpt.com "Beauty and cosmetic industry trends 2025: Transforming product development and manufacturing with digital innovation - Consumer Products & Retail"
